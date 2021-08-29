@@ -6,7 +6,7 @@
         "vc",
         "music"
     ],
-    "repository": "https://github.com/EkimozSupport/nebahyon",
+    "repository": "https://github.com/NeuroticCoders/LyciaMusicBot",
     "logo": "https://telegra.ph/file/ee9940ece5ffc1d463e31.jpg",
     "success_url": "https://telegram.dog/introhan",
     "env": {
