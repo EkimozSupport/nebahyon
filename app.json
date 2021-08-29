@@ -1,14 +1,14 @@
 {
-    "name": "@NeuroticCoders/LyciaMusicBot",
+    "name": "@Kizilsancaksahibi/MerakliMusicBot",
     "description": "Telegram Bot to Play Music in Voice Chat",
     "keywords": [
         "telegram",
         "vc",
         "music"
     ],
-    "repository": "https://github.com/NeuroticCoders/LyciaMusicBot",
-    "logo": "https://telegra.ph/file/4a058c58b9e783da5d184.jpg",
-    "success_url": "https://telegram.dog/NeuroticBots",
+    "repository": "https://github.com/EkimozSupport/nebahyon",
+    "logo": "https://telegra.ph/file/ee9940ece5ffc1d463e31.jpg",
+    "success_url": "https://telegram.dog/introhan",
     "env": {
         "API_ID": {
             "description": "Get API_ID from https://my.telegram.org/apps.",
